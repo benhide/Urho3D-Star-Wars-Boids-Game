@@ -1,5 +1,4 @@
-# Urho3D-Star-Wars-Boids-Game
-Urho3D Star Wars x-wing boids game
+# Urho3D Star Wars Boids Game
 
 The game fetures the following:
 1. Space based flight simwhich involves combat with swarms of space ships implemented using a “boids” algorithm.
